@@ -1,7 +1,7 @@
 ---
-ansible_deploy:
-  own_repository: https://github.com/codeenigma/ansible-deploy.git
-  config_repository: https://github.com/codeenigma/ce-dev-ansible-deploy-config.git
+ce_deploy:
+  own_repository: https://github.com/codeenigma/ce-deploy.git
+  config_repository: https://github.com/codeenigma/ce-dev-ce-deploy-config.git
 
 deploy_user: ce-dev
 www_user: ce-dev
